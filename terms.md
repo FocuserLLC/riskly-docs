@@ -83,4 +83,4 @@ These Terms are governed by the laws of the State in which Focuser LLC is organi
 We may update these Terms from time to time. Material changes are reflected by updating the effective date above. Your continued use of the App after changes take effect constitutes acceptance of the updated Terms.
 
 ## 17. Contact
-Questions about these Terms? Contact Focuser LLC at [support@focuserapps.com](mailto:support@focuserapps.com).
+Questions about these Terms? Contact Focuser LLC at [info@focuserllc.com](mailto:info@focuserllc.com).
