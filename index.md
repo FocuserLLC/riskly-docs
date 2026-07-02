@@ -13,8 +13,5 @@ Riskly gives you a personalized, AI-powered risk score for anything you do — g
 - [Privacy Policy](privacy-policy.md)
 - [Terms of Use (EULA)](terms.md)
 
----
-
-Riskly is operated by **Focuser LLC**. Questions? Email [support@focuserapps.com](mailto:support@focuserapps.com).
 
 _Riskly provides statistical estimates for entertainment and educational purposes only. It is not medical, legal, insurance, financial, or safety advice._
