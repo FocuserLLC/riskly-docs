@@ -46,3 +46,5 @@ When you use AI features, the activity names and answers you provide are sent to
 ## How old do I need to be?
 You must be at least 13 (or the minimum age of digital consent in your jurisdiction) to use Riskly.
 
+## Still have questions?
+Email us at [info@focuserllc.com](mailto:info@focuserllc.com).
