@@ -68,4 +68,4 @@ We use reasonable technical and organizational measures to protect your informat
 We may update this Privacy Policy from time to time. Material changes will be reflected by updating the effective date above. Your continued use of the App after changes take effect constitutes acceptance of the updated Policy.
 
 ## 14. Contact us
-Questions about this Policy or your data? Contact Focuser LLC at [info@focuserllc.com](mailto:info@focuserllc.com.
+Questions about this Policy or your data? Contact Focuser LLC at [info@focuserllc.com](mailto:info@focuserllc.com).
