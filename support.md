@@ -8,7 +8,7 @@ Need help with Riskly? We're here for you.
 
 ## Contact us
 
-- **Email:** [support@focuserapps.com](mailto:support@focuserapps.com)
+- **Email:** [info@focuserllc.com](mailto:info@focuserllc.com)
 - **Response time:** We typically reply within 1–2 business days.
 
 When you email us, it helps to include:
@@ -42,4 +42,4 @@ All purchases are handled by the Apple App Store. To request a refund, visit [re
 
 ## Still stuck?
 
-Email us at [support@focuserapps.com](mailto:support@focuserapps.com) and we'll help you out.
+Email us at [info@focuserllc.com](mailto:info@focuserllc.com) and we'll help you out.
